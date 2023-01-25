@@ -20,5 +20,4 @@
 
     <mvc:resources mapping="/resources/theme/**" location="/resources/theme/" cache-period="31556926" />
     <mvc:annotation-driven/>
-
 </beans>
